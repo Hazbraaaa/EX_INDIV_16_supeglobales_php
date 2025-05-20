@@ -1,0 +1,1 @@
+# EX_INDIV_16_supeglobales_php
