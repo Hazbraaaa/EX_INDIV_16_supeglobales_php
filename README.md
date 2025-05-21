@@ -12,5 +12,5 @@
 
 ## ✅ Fonctionnalités
 
-- ✅ XXXX
-- ✅ 
+- ✅ Utiliser les superglobales $_GET, $_POST et $_SESSION
+- ✅ Réinitialiser les valeurs d'une Session
